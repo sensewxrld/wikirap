@@ -113,10 +113,6 @@ section button:hover {
     margin: 0.5rem 0; /* Margem acima e abaixo */
 }
 
-.nada-encontrado {
-    color: #ffffff; /* Cor do texto */
-}
-
 /* Estiliza o rodapé da página */
 footer {
     background-color: #111111; /* Cor de fundo do rodapé */
