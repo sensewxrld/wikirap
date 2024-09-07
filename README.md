@@ -1,4 +1,4 @@
-## Rap Wiki: Sua Enciclopédia do Rap, Simples Assim! 
+## Rap Wiki: Sua Enciclopédia do Rap, Simples Assim! - Imersão Dev com Google Gemini
 
 **O que rola por aqui?**
 
@@ -35,4 +35,3 @@ Se você também é apaixonado por rap e sabe um pouco de programação, pode aj
 
 **Com o Rap Wiki, você sempre estará por dentro do que rola no mundo do rap!** 
 
-**#RapNaVeia**
