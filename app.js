@@ -5,7 +5,7 @@ function pesquisar() {
     console.log(campoPesquisa);
 
     if (!campoPesquisa){
-        section.innerHTML = "<p class="nada-encontrado">Nenhum Resultado Encontrado. Você precisa digitar algo.</p>"
+        section.innerHTML = "<p>Nenhum Resultado Encontrado. Você precisa digitar algo.</p>"
         return
     }
 
@@ -32,7 +32,7 @@ for (let dado of dados) { // Itera sobre cada elemento (dado) do array "dados"
 }
 
     if(!resultados){
-        resultados = "<p class="nada-encontrado">Nenhum Resultado Encontrado.</p>"
+        resultados = "<p>Nenhum Resultado Encontrado.</p>"
     }
 
 section.innerHTML = resultados // Atribui o conteúdo HTML gerado ao elemento "section"
